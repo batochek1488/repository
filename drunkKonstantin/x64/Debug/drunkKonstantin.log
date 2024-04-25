@@ -1,0 +1,7 @@
+﻿  drunkKonstantin.cpp
+C:\Users\top\Documents\Oleg Lspd\drunkKonstantin\drunkKonstantin.cpp(30,13): error C2065: i: необъявленный идентификатор
+C:\Users\top\Documents\Oleg Lspd\drunkKonstantin\drunkKonstantin.cpp(41,7): error C2065: old_middle: необъявленный идентификатор
+C:\Users\top\Documents\Oleg Lspd\drunkKonstantin\drunkKonstantin.cpp(44,2): error C2760: синтаксическая ошибка: непредвиденный элемент "}". Ожидается ";"
+C:\Users\top\Documents\Oleg Lspd\drunkKonstantin\drunkKonstantin.cpp(50,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\top\Documents\Oleg Lspd\drunkKonstantin\drunkKonstantin.cpp(55,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\top\Documents\Oleg Lspd\drunkKonstantin\drunkKonstantin.cpp(61,20): warning C4018: <: несоответствие типов со знаком и без знака
